@@ -7,7 +7,7 @@
 ## Team Members:
 
 -   Khoa Anh Vo
--   Name 2
+-   Amandeep Singh
 -   Name 3
 
 ## Member Contributions:
@@ -18,8 +18,8 @@
 
 
 ### Name 2:
-
--   Was responsible for [specific tasks], focusing on [specific HTML elements].
+-- Amandeep Singh
+-   Was responsible for Index.html , Styles.css file.
 
 ### Name 3:
 
