@@ -4,10 +4,22 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="styles.css">
-    <title>Document</title>
+    <title>Weather Reader</title>
 </head>
 <body>
+    <h1>Welcome to the weather forecast</h1>
     
+    <label for="weather-city">Please select a city to retrieve the information:</label>
+    <select id="weather-city">
+        <option>Winnipeg</option>
+        <option>Toronto</option>
+        <option>Calgary</option>
+        <option>Qúebec</option>
+    </select>
+
+    <button id="submit-btn">Get info!</button>
+    
+    <div><!-- Info will be injected here --></div>
     <script src="script.js"></script>
 </body>
 </html>
